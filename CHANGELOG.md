@@ -1,3 +1,10 @@
+## 4.2.0 (December 06, 2020)
+
+ENHANCEMENTS:
+
+- Add `allow_deletions` option in `resource_github_branch_protection` resource ()
+- Add `alllows_force_pushes` option in `resource_github_branch_protection` resource ()
+
 ## 4.1.0 (December 01, 2020)
 
 ENHANCEMENTS:
